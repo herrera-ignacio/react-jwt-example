@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "test"
+    },
+    {
+      "id": "e3df5800-9c30-4d00-bfa0-a7a18477f1ad",
+      "username": "Nacho",
+      "password": "$2b$10$wX3g8FXY7JW0gv0e5GDTaerCbD3P3zAfMIZ8u5CuTN4aEY5wNRvqi",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik5hY2hvIiwiaWF0IjoxNjkyOTI5NzAzLCJleHAiOjE2OTMwMTYxMDN9.JrdJuXUmc9sVH3JrZVhca8PU9k9byuL6qOOP_fDZ68E"
+    }
+  ]
+}
