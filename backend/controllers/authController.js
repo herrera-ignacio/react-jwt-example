@@ -37,7 +37,7 @@ export const handleAuth = async (req, res) => {
 
   res.cookie("refresh_token", refreshToken, {
     httpOnly: true,
-    secure: false, // this is for using Thunder Client in dev
+    secure: true, // set to false for using Thunder Client in dev
     sameSite: 'None',
     maxAge: 24 * 60 * 60 * 1000 });
 

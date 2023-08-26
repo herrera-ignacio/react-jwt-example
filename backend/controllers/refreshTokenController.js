@@ -4,7 +4,6 @@ import { accessTokenSecret, refreshTokenSecret } from "../config/secrets.js";
 
 export const handleRefreshToken = async (req, res) => {
   const cookies = req.cookies;
-  console.log(cookies);
   const refreshToken = cookies?.refresh_token;
   if (!refreshToken) return res.sendStatus(401);
 
@@ -13,7 +12,6 @@ export const handleRefreshToken = async (req, res) => {
     refreshToken,
     refreshTokenSecret,
     (err, decoded) => {
-      console.log(err);
       if (err) return res.sendStatus(403);
       
       const userFound = User.findOne(decoded.username);

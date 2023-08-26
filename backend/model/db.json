@@ -7,7 +7,12 @@
       "id": "e3df5800-9c30-4d00-bfa0-a7a18477f1ad",
       "username": "Nacho",
       "password": "$2b$10$wX3g8FXY7JW0gv0e5GDTaerCbD3P3zAfMIZ8u5CuTN4aEY5wNRvqi",
-      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik5hY2hvIiwiaWF0IjoxNjkyOTI5NzAzLCJleHAiOjE2OTMwMTYxMDN9.JrdJuXUmc9sVH3JrZVhca8PU9k9byuL6qOOP_fDZ68E"
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik5hY2hvIiwiaWF0IjoxNjkzMDE0NTA3LCJleHAiOjE2OTMxMDA5MDd9.XTqjkI4DbyfNHSXckshbVkvkmdR6_qV_dfo2t5p_KdE"
+    },
+    {
+      "id": "146cd069-d568-4a71-b602-e95775a959c2",
+      "username": "Nacho2",
+      "password": "$2b$10$SqP1cbAigSUDtAPrwGhsveEcpFMa9STlGKq8Y96q3vOKGwPfmsTU6"
     }
   ]
 }
